@@ -6,7 +6,7 @@
 * _strcat - concatenate 2 strings
 * @dest: pointer to the first string
 * @src: pointer to the second string
-* 
+*
 * Return: pointer to string dest
 */
 
