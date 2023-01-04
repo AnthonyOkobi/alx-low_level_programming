@@ -34,7 +34,7 @@ return (new);
 }
 node = *head;
 
-for(i = 0; node->next != NULL; i++, node = node->next)
+for (i = 0; node->next != NULL; i++, node = node->next)
 {
 continue;
 }
