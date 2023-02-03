@@ -1,7 +1,7 @@
 #include "hash_tables.h"
 /**
  * key_index - function gives index of a key
- * 
+ *
  * @key: const unsigned char ptr to key
  * @size: unsigned long int size of array of has table
  *
